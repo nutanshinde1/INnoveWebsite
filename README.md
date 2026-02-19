@@ -12,9 +12,4 @@ A handcrafted return gift website built to celebrate life’s special moments wi
 - Hosted on GitHub Pages
 ---
 
-## 🛠 Tech Stack
-- HTML5  
-- CSS3  
-- GitHub Pages (Hosting)
-
 
